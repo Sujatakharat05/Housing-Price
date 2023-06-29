@@ -1,7 +1,5 @@
 # Housing Price Predictions
 
-# Housing Price Pridiction
-
 EDA
   Univariate
   Bivariate

@@ -3,3 +3,4 @@ NumPy
 sk-learn
 matplotlib
 Ml Algorithms
+Statsmodel
